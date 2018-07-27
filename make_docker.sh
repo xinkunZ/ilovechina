@@ -1,1 +1,1 @@
-docker build -t i-love-china
+docker build ./ -t zxk000000000/i-love-china:latest
